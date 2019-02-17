@@ -1,6 +1,6 @@
-# flutter_notkeeper
+# Flutter Notekeeper
 
-A new Flutter application.
+A new Flutter application using sqflite.
 
 <p align="center">
 Screenshot
